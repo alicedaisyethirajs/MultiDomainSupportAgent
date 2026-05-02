@@ -225,7 +225,7 @@ This system is highly applicable to:
   * logging
   * injection detection
 
----
+
 
 ## 📌 Summary
 
@@ -238,9 +238,3 @@ This project demonstrates a **production-grade AI support agent** that:
 
 It bridges the gap between **LLM capability and real-world reliability**, making it directly usable in modern support systems.
 
----
-
-If you want, I can also:
-
-* make this shorter (resume version)
-* or add diagrams for GitHub README visuals
