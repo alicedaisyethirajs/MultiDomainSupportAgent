@@ -1,0 +1,7 @@
+mistralai
+instructor
+pydantic
+python-dotenv
+sentence-transformers
+faiss-cpu
+numpy
