@@ -1,7 +1,3 @@
-Here’s a **clean, professional README** you can drop into your repo:
-
----
-
 # 🧠 Support Ticket Triage & Response Agent
 
 ## 📌 Problem Statement
